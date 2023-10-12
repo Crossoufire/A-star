@@ -1,2 +1,2 @@
 # A_star
-A* star in python - for fun
+A* star made in python - for fun - using matplotlib events
