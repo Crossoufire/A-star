@@ -1,2 +1,2 @@
-# A* star algorithm
-A* star made in python - for fun - using matplotlib events
+# A* algorithm
+A* algorithm made in python using matplotlib events - for fun :).
